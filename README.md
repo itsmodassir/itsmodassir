@@ -1,5 +1,10 @@
-# 💫 About Me:
-# About Me<br><br>Hi, I'm **Md. Modassir**, a software developer, entrepreneur, and the founder of **Aimstors Technology**. My passion is building technology that makes businesses smarter and easier to run through AI, automation, and modern software.<br><br>I specialize in **AI automation, CRM development, WhatsApp Business API solutions, website development, business automation, and SaaS products**. My goal isn't just to build software—it's to create products that solve real-world problems for startups, businesses, and creators.<br><br>Over the years, I've worked on multiple projects including AI-powered CRMs, WhatsApp automation platforms, blogging systems, e-commerce solutions, and business management tools. I enjoy working with technologies like **React, TypeScript, Node.js, PostgreSQL, AWS, Docker, Cloudflare, and AI APIs**, constantly exploring new ways to improve productivity through automation.<br><br>My long-term vision is ambitious: to build **Aimstors** into a global technology company and contribute to making India a leader in AI and advanced technology. I believe technology should be accessible, practical, and capable of helping anyone grow their business.<br><br>When I'm not building products, I spend my time learning about artificial intelligence, cloud computing, finance, entrepreneurship, marketing, and emerging technologies. I enjoy turning ideas into products that people actually use.<br><br>**Mission:** Build technology that empowers businesses and individuals through AI, automation, and innovation.<br>
+# 💫 About Me
+
+Hi, I'm **Md. Modassir** — a software developer, entrepreneur, and founder of **Aimstors Solution Pvt Ltd**. I build practical SaaS products, AI automation tools, CRMs, and WhatsApp Business API solutions that help startups and businesses work smarter.
+
+- **Stack:** React, TypeScript, Node.js, PostgreSQL, AWS, Docker, Cloudflare, AI APIs & Swift
+- **Focus:** AI automation, CRM systems, e-commerce, and scalable SaaS
+- **Mission:** Empower businesses and individuals through accessible AI, automation, and innovation — while building **Aimstors** into a global tech company from India.
 
 
 ## 🌐 Socials:
